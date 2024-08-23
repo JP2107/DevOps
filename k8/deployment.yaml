@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: josejpav21/mi-app:d43daa6600502fc088cf828650b655c7f1fadf62
+        image: josejpav21/mi-app:f307e1b9bd488000f97296dc60370a57987b4e0b
         ports:
         - containerPort: 80
